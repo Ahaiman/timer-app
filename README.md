@@ -15,7 +15,7 @@ Technology Wise
 -------------
 This mini-project was created purely on client-site, using `React`. The components are purely `functional components` (usage of React hooks). 
 
-> **Note:**
+**Note:**
 
 > - ES6 logic
 > - Material-UI
