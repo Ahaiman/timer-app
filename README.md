@@ -18,7 +18,7 @@ This mini-project was created purely on client-site, using `React`. The componen
 > **Note:**
 
 > - ES6 logic
-> - Material-ui
+> - Material-UI
 
 
 How Does It Work?
