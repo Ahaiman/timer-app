@@ -33,9 +33,8 @@ Enter the number of seconds for performing the countdown.
 
 Prerequisites
 --------------------
-####Packages 
+Packages :
 npm
 react
 react-dom
-
 ----------
