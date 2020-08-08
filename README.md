@@ -21,7 +21,7 @@ This mini-project was created purely on client-site, using `React`. The componen
 > - Material-ui
 
 
-How Doe's It Work?
+How Does It Work?
 -------------
 ![See how it looks like](images/main.png)
 
