@@ -12,10 +12,9 @@ This app is a countdown seconds timer.
 
 Technology Wise
 -------------
-This mini-project was created purely on client-site, using `React`. The components are based on `functional components` only (usage of React hooks). 
+This mini-project was created purely on client-site, using `React`. The components are based on `functional components` only. 
 
-**Note:**
-
+> - React hooks
 > - ES6 logic
 > - Material-UI
 
