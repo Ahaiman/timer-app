@@ -32,11 +32,8 @@ You are able to **Pause**, **Start** (from the pause point), and **Reset** (sett
 Prerequisites
 --------------------
 Packages: 
-react
-react-dom
-randomcolor
 
-
-
-
+* `react`
+* `react-dom`
+* `randomcolor`
 
