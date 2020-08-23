@@ -23,9 +23,7 @@ class Header extends Component{
     }
 
     myPressHandler(event){
-        // event.preventDefault();
         this.setState({press : true})
-        // alert("You are submitting " + this.state.chosenTime);
     }
 
     render (){
