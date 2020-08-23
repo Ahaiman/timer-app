@@ -37,6 +37,8 @@ Packages:
 * `react-dom`
 * `randomcolor`
 * `material-ui/core`
+* `material-ui/icons`
+
 
 
 
